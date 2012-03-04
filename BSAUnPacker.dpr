@@ -1,7 +1,6 @@
 program BSAUnPacker;
 
 uses
-  ExceptionLog,
   Forms,
   frmMain in 'frmMain.pas' {Form5},
   BSAUnpack in 'BSAUnpack.pas',

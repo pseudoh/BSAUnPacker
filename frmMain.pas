@@ -61,7 +61,7 @@ procedure TForm5.OpenClick(Sender: TObject);
 begin
 ListBox1.Clear;
 
-bsa.Filename := 'C:\Program Files (x86)\The Elder Scrolls V Skyrim\Data\Skyrim - Sounds.bsa';
+bsa.Filename := 'archive.bsa';
 
 bsa.Open;
 bsa.getFileList('\', ListBox1.Items);

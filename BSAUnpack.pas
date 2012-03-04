@@ -1,7 +1,7 @@
 unit BSAUnpack;
 
 interface
-Uses Classes, SysUtils, BSATypes, CodeSiteLogging;
+Uses Classes, SysUtils, BSATypes;
 
 
 Type
